@@ -25,7 +25,7 @@ The evaluation metric used for the competition is _MAP@10_.
 
 ## Credits
 
-The code in this repository was built upon the code from the [course repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi), which provides the implementation of recommenders and utility code.
+The code in this repository was built upon the [course repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi), which provides the implementation of recommenders and utility code.
 
 ## Team
 
